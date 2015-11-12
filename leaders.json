@@ -103,6 +103,14 @@
                         "country": "India",
                         "lat": 17.385044,
                         "lng": 78.486671
+                },
+                {
+                        "name": "Flore Allemandou", 
+                        "url": "https://mozillians.org/en-US/u/Flore/",
+                        "gravatar": "flore@mozfr.org",
+                        "country": "France",
+                        "lat": 45.759723,
+                        "lng": 4.842223
                 }
                 
 	]
